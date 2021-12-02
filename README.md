@@ -7,4 +7,3 @@ Contact me on discord (LN89#4037) or use github to report issues! The same goes 
 1. Disable the lockscreen blur when logging on<br/>
 2. Disable the "Shake to Minimize" feature<br/>
 3. Show the seconds in the taskbar clock<br/>
-![cool picture](/assetsForMarkdown/sr_picture.png)
