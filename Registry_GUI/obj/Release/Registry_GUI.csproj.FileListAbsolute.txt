@@ -1,0 +1,17 @@
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\Registry_GUI.csproj.AssemblyReference.cache
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\MainWindow.g.cs
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\App.g.cs
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\MainWindow.baml
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\Registry_GUI.Properties.Resources.resources
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\Registry_GUI.csproj.GenerateResource.cache
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\Registry_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\bin\Release\SimpleRegedit.exe.config
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\bin\Release\SimpleRegedit.exe
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\bin\Release\SimpleRegedit.pdb
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\SimpleRegedit_MarkupCompile.cache
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\SimpleRegedit_MarkupCompile.lref
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\SimpleRegedit.g.resources
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\SimpleRegedit.exe
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\SimpleRegedit.pdb
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\confirmRestart.g.cs
+C:\Users\Schubert\Desktop\C#\Registry_GUI\Registry_GUI\obj\Release\confirmRestart.baml
